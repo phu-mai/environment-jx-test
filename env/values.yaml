@@ -15,7 +15,7 @@ cleanup:
 expose:
   config:
     domain: minhphu.name.vn
-    exposer: Ingress
+    exposer: Route
     http: "true"
     tlsacme: "false"
     pathMode: ""
